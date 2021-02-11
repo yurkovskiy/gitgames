@@ -1,3 +1,5 @@
 Some new file with some info
 New line of text
+The third line of text
+
 
